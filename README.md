@@ -13,7 +13,7 @@
 
 - 💻 I’m exploring and enhancing my skills in **Web Development**, **C++**, and **Java**
 
-  ## 🚀 Languages and Tools:
+## 🚀 Languages and Tools:
 
 <p align="left">
     <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
